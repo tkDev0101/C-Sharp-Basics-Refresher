@@ -23,6 +23,8 @@ namespace LearningApp
             player.ShowStats();
 
             Console.WriteLine("You're now ready to begin your journey!");
+
+            Console.WriteLine("Test Commit");
         }
     }
 }
